@@ -16,6 +16,6 @@ To add your own references to this library, you must export them with attachment
     - DOI (for all journal articles that have one)
     - URL (if source was originally found online)
     - Date Accessed (if source was originally found online)
-
+    
+    
 2. Attached PDF must be legible and complete
-    - 
