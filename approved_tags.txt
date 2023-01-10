@@ -1,0 +1,53 @@
+Ancient-History
+Classical-Studies
+
+Philology
+
+Linguistics
+
+Language:
+  Latin
+  Greek-Ancient
+  Hebrew
+  Akkadian
+  Sumerian
+  Aramaic
+  Arabic
+  Celtic
+  
+Philosophy:
+  Stoic
+  Pre-Socratic
+  Epicurean
+  Existentialism
+
+Religion:
+  Christianity
+    Early
+    Late-Antique
+    Medieval
+    Rennaissance
+    Enlightenment
+    Early-Modern
+    Modern
+    Catholicism
+    Protestantism
+    Protestant-Lutheran
+    Protestant-Anglican
+    Protestant-United-Church-of-Canada
+    Protestant-Presbyterian
+    Protestant-Baptist
+    Protestant-Evangelical
+    
+  Judaism
+  
+  Islam
+  
+  Buddhism
+  
+  Sufism
+  
+  Shinto
+  
+  Zoroastrianism
+  
