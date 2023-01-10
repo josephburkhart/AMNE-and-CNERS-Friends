@@ -3,7 +3,7 @@ This group is for current and former students, staff, and faculty of UBC's Ancie
 
 Link to group library (Zotero login required): https://www.zotero.org/groups/4903122/amne_and_cners_friends/library
 
-The group library contains references that have been submitted by group members and reviewed by group admins for quality control. Each reference has been given tags to indicate subject area and methodology, with an additional tag to indicate the name of a person who has a PDF file of the source. To obtain a PDF of a source, you can email the person who has it. See [here](<insert link here) for a list of name tags and their associated emails.
+The group library contains references that have been submitted by group members and reviewed by group admins for quality control. Each reference has been given tags to indicate subject area and methodology, with an additional tag to indicate the name of a person who has a PDF file of the source. To obtain a PDF of a source, you can email the person who has it. See [here](<insert link here>) for a list of name tags and their associated emails.
 
 To add your own references to this library, you must export them *with attachments* to Zotero RDF format, zip up the resulting folder, and email it to Joseph Burkhart (group admin) at <insert email here> for quality control review. In order to pass review, each reference must meet the following criteria:
 
@@ -11,7 +11,7 @@ To add your own references to this library, you must export them *with attachmen
     - Title 
       - Must include subtitle and follow anglophone punctuation and capitalization standards (First Letter of Most Words Capitalized; title separated from subtitle by ": ")
     - Creators (authors, editors, etc.)
-      - Must include full first and last names (and middle initials when they are given in the original source). *First names must be complete, even if only first initials are given in the original source*, so you may have to do some digging.
+      - Must include full first and last names (and middle initials when they are given in the original source). **First names must be complete, even if only first initials are given in the original source**, so you may have to do some digging.
       - For chapters in edited volumes, the author of the chapter should be given alongside all editors of the volume.
     - Publisher
     - Place
