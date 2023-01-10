@@ -27,7 +27,7 @@ To add your own references to this library, you must export them *with attachmen
     - DRM-controlled PDFs will not be accepted. These include PDFs which have an "expiration date" (e.g., on loan from Proquest) or which require a password to be opened. For assistance in removing DRM from PDFs, please contact the group admin.
     - Optional: scanned PDFs are much more useful if they have been OCR'ed, meaning that a computer has done text-recognition analysis and made the PDF searchable. For assistance in running OCR on your PDF, please contact the group admin.
 
-3. All tags must be removed from the reference except for tags which indicate subject area and methodology (there can be multiple subject tags and multiple method tags). To aid in indexing, only approved tags are allowed - for a list of approved tags, see [here](<insert link here>). If you would like to propose one or more new tags, you may contact the group admin to do so.
+3. All tags must be removed from the reference except for tags which indicate subject area and methodology (there can be multiple subject tags and multiple method tags). To aid in indexing, only approved tags are allowed - for a list of approved tags, see [here](approved_tags.txt). If you would like to propose one or more new tags, you may contact the group admin to do so.
 
 If, during the QC review process, three or more references do not meet the criteria above, your references will not be added and you will be asked to review them yourself to fix and issues before resubmitting them.
 
